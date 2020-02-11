@@ -1,1 +1,1 @@
-This is a small web project
+Small website for my favorite anime
